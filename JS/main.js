@@ -1,0 +1,1 @@
+import {getRoles, getCompanies} from './modules/salaryData';
